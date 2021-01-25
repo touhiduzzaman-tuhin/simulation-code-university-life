@@ -1,0 +1,7 @@
+[RESOURCES]
+Wash Mechine
+[VARIABLES]
+Wash Station.NumberIn
+vehicles Exits.NumberOut
+Arrive of vehicles.NumberOut
+Wash Station.NumberOut

@@ -1,0 +1,9 @@
+[RESOURCES]
+Cook
+[VARIABLES]
+Resturent Services.NumberOut
+Resturent Services.VATime
+Resturent Services.WaitTime
+Car Arrival.NumberOut
+Resturent Services.NumberIn
+Car Exits.NumberOut

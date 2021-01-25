@@ -1,0 +1,15 @@
+[RESOURCES]
+Resource 1
+[VARIABLES]
+Doc.NumberOut
+Decide1.NumberOut True
+N2.NumberOut
+N1.NumberOut
+N2.NumberIn
+N1.NumberIn
+Decide1.NumberOut False
+Exit.NumberOut
+Doc.NumberIn
+Decide.NumberOut False
+Decide.NumberOut True
+Arrival.NumberOut

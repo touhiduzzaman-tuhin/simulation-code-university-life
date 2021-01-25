@@ -1,0 +1,11 @@
+[RESOURCES]
+Resource 1
+[VARIABLES]
+Decide 1.NumberOut False
+Painting.NumberOut
+Painting.NumberIn
+Exit.NumberOut
+Assembly.NumberOut
+Assembly.NumberIn
+Arrival.NumberOut
+Decide 1.NumberOut True

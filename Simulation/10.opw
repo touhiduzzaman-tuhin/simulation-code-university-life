@@ -1,0 +1,13 @@
+[RESOURCES]
+Resource 1
+[VARIABLES]
+Mshop.NumberOut
+Exit.NumberOut
+Fshop.NumberOut
+Decide.NumberOut False
+Decide.NumberOut True
+Fshop.NumberIn
+Queue.NumberOut
+Mshop.NumberIn
+Queue.NumberIn
+Arrival.NumberOut

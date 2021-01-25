@@ -1,0 +1,15 @@
+[RESOURCES]
+Resource 1
+[VARIABLES]
+FW.NumberIn
+FW.NumberOut
+MaleQueue.NumberIn
+Exit.NumberOut
+MW.NumberOut
+MW.NumberIn
+FemaleQueue.NumberIn
+Decide.NumberOut False
+FemaleQueue.NumberOut
+Decide.NumberOut True
+MaleQueue.NumberOut
+Arrival.NumberOut

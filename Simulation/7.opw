@@ -1,0 +1,11 @@
+[RESOURCES]
+Resource 1
+[VARIABLES]
+Inspector.NumberOut
+Exit.NumberOut
+Control.NumberOut False
+Inspector.NumberIn
+Control.NumberOut True
+Repair.NumberIn
+Repair.NumberOut
+Arrival.NumberOut

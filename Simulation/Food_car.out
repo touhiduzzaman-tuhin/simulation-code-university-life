@@ -1,0 +1,58 @@
+
+                                      ARENA Simulation Results
+                                        HP - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Food_car                                                    Run execution date : 8/16/2019
+Analyst: Tuhin                                                       Model revision date: 8/16/2019
+
+Replication ended at time      : 1440.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Total Time                                      --         --         --         --          0
+Resturent Services.VATimePerEntity              --         --         --         --          0
+Resturent Services.TotalTimePerEntity           --         --         --         --          0
+Resturent Services.WaitTimePerEntity            --         --         --         --          0
+Car.VATime                                      --         --         --         --          0
+Car.NVATime                                     --         --         --         --          0
+Car.WaitTime                                    --         --         --         --          0
+Car.TranTime                                    --         --         --         --          0
+Car.OtherTime                                   --         --         --         --          0
+Car.TotalTime                                   --         --         --         --          0
+Resturent Services.Queue.WaitingTime            --         --         --         --          0
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Car.WIP                                     .00000     (Insuf)    .00000     .00000     .00000    
+Cook.NumberBusy                             .00000     (Insuf)    .00000     .00000     .00000    
+Cook.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Cook.Utilization                            .00000     (Insuf)    .00000     .00000     .00000    
+Resturent Services.Queue.NumberInQueue      .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Resturent Services Number Out               .00000    
+Resturent Services Accum VA Time            .00000    
+Resturent Services Accum Wait Time          .00000    
+Resturent Services Number In                .00000    
+Car.NumberIn                                .00000    
+Car.NumberOut                               .00000    
+Cook.NumberSeized                           .00000    
+Cook.ScheduledUtilization                   .00000    
+System.NumberOut                            .00000    
+
+
+Simulation run time: 0.00 minutes.
+Simulation run complete.

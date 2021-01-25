@@ -1,0 +1,54 @@
+
+                                      ARENA Simulation Results
+                                        HP - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 8/18/2019
+Analyst: HP                                                          Model revision date: 8/18/2019
+
+Replication ended at time      : 15.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .07069     (Insuf)    .03366     .11658        187    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        187    
+Entity 1.WaitTime                           .44884     (Insuf)    .00000     1.3565        187    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        187    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        187    
+Entity 1.TotalTime                          .51953     (Insuf)    .03728     1.4072        187    
+Mshop.Queue.WaitingTime                     .23789     (Insuf)    .00000     .68773        109    
+Fshop.Queue.WaitingTime                     .23302     (Insuf)    .00000     .71645         79    
+Queue.Queue.WaitingTime                     .24066     (Insuf)    .00000     .69718        200    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                7.6454     (Corr)     .00000     24.000     23.000    
+Resource 1.NumberBusy                       .91060     (Insuf)    .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .91060     (Insuf)    .00000     1.0000     1.0000    
+Mshop.Queue.NumberInQueue                   1.9040     (Insuf)    .00000     8.0000     6.0000    
+Fshop.Queue.NumberInQueue                   1.3829     (Insuf)    .00000     8.0000     6.0000    
+Queue.Queue.NumberInQueue                   3.4478     (Corr)     .00000     13.000     10.000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           210.00    
+Entity 1.NumberOut                          187.00    
+Resource 1.NumberSeized                     388.00    
+Resource 1.ScheduledUtilization             .91060    
+System.NumberOut                            187.00    
+
+
+Simulation run time: 0.02 minutes.
+Simulation run complete.

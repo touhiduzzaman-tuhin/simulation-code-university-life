@@ -1,0 +1,53 @@
+
+                                      ARENA Simulation Results
+                                        HP - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 8/17/2019
+Analyst: HP                                                          Model revision date: 8/17/2019
+
+Replication ended at time      : 100000.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Flow Time                                   131.78     (Corr)     5.0021     865.08      12378    
+Entity 1.VATime                             7.7149     .04669     5.0000     29.581      12378    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000      12378    
+Entity 1.WaitTime                           124.06     (Corr)     .00000     835.50      12378    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000      12378    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000      12378    
+Entity 1.TotalTime                          131.78     (Corr)     5.0021     865.08      12378    
+Painting.Queue.WaitingTime                  57.640     (Corr)     .00000     201.55      12379    
+Assembly.Queue.WaitingTime                  56.487     (Corr)     .00000     200.26      14602    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                16.356     (Corr)     .00000     58.000     32.000    
+Resource 1.NumberBusy                       .95601     .01720     .00000     1.0000     1.0000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .95601     .01720     .00000     1.0000     1.0000    
+Painting.Queue.NumberInQueue                7.1425     (Corr)     .00000     32.000     13.000    
+Assembly.Queue.NumberInQueue                8.2583     (Corr)     .00000     35.000     18.000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           12410.    
+Entity 1.NumberOut                          12378.    
+Resource 1.NumberSeized                     26981.    
+Resource 1.ScheduledUtilization             .95601    
+System.NumberOut                            12378.    
+
+
+Simulation run time: 0.33 minutes.
+Simulation run complete.

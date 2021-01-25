@@ -1,0 +1,72 @@
+
+                                      ARENA Simulation Results
+                                        HP - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Two Stage Manufacturing Processes                           Run execution date : 8/10/2019
+Analyst: Tuhin                                                       Model revision date: 8/10/2019
+
+Replication ended at time      : 100000.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Painting.VATimePerEntity                    3.0000     1.2268E-15 3.0000     3.0000      12395    
+Flow time                                   11.916     .40860     5.0021     83.103      12395    
+Painting.TotalTimePerEntity                 3.0733     .00417     3.0000     5.3813      12395    
+Assembly.VATimePerEntity                    4.0177     .02065     2.0000     5.9997      14598    
+Painting.WaitTimePerEntity                  .07339     .00417     .00000     2.3813      12395    
+Assembly.TotalTimePerEntity                 7.5092     .32266     2.0021     41.267      14598    
+Assembly.WaitTimePerEntity                  3.4915     .31310     .00000     36.445      14598    
+Job.VATime                                  7.7314     .05356     5.0000     25.796      12395    
+Job.NVATime                                 .00000     .00000     .00000     .00000      12395    
+Job.WaitTime                                4.1854     .37766     .00000     64.496      12395    
+Job.TranTime                                .00000     .00000     .00000     .00000      12395    
+Job.OtherTime                               .00000     .00000     .00000     .00000      12395    
+Job.TotalTime                               11.916     .40860     5.0021     83.103      12395    
+Painting.Queue.WaitingTime                  .07339     .00417     .00000     2.3813      12395    
+Assembly.Queue.WaitingTime                  3.4914     .31310     .00000     36.445      14599    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Job.WIP                                     1.4772     .06306     .00000     11.000     3.0000    
+Paint Shop.NumberBusy                       .37185     .00640     .00000     1.0000     .00000    
+Paint Shop.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Paint Shop.Utilization                      .37185     .00640     .00000     1.0000     .00000    
+Assembly Station.NumberBusy                 .58654     .01194     .00000     1.0000     1.0000    
+Assembly Station.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Assembly Station.Utilization                .58654     .01194     .00000     1.0000     1.0000    
+Painting.Queue.NumberInQueue                .00910     5.7450E-04 .00000     1.0000     .00000    
+Assembly.Queue.NumberInQueue                .50975     .04905     .00000     9.0000     2.0000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Painting Accum VA Time                      37185.    
+Assembly Accum Wait Time                    50969.    
+Painting Number Out                         12395.    
+Painting Number In                          12395.    
+Assembly Accum VA Time                      58651.    
+Painting Accum Wait Time                    909.71    
+Assembly Number Out                         14598.    
+Assembly Number In                          14601.    
+Job.NumberIn                                12398.    
+Job.NumberOut                               12395.    
+Paint Shop.NumberSeized                     12395.    
+Paint Shop.ScheduledUtilization             .37185    
+Assembly Station.NumberSeized               14599.    
+Assembly Station.ScheduledUtilization       .58654    
+System.NumberOut                            12395.    
+
+
+Simulation run time: 0.48 minutes.
+Simulation run complete.

@@ -1,0 +1,11 @@
+[RESOURCES]
+Resource 1
+[VARIABLES]
+Painting.NumberOut
+Painting.NumberIn
+Exit.NumberOut
+Quality Control.NumberOut True
+Quality Control.NumberOut False
+Assembly.NumberOut
+Assembly.NumberIn
+Arrival.NumberOut

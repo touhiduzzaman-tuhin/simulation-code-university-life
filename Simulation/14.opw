@@ -1,0 +1,9 @@
+[RESOURCES]
+Resource 1
+[VARIABLES]
+Process 1.NumberIn
+Exit.NumberOut
+Decide.NumberOut False
+Decide.NumberOut True
+Process 1.NumberOut
+Arrival.NumberOut

@@ -1,0 +1,11 @@
+[RESOURCES]
+Resource 1
+[VARIABLES]
+N2.NumberOut
+N1.NumberOut
+N2.NumberIn
+N1.NumberIn
+D.NumberOut
+Dispose 1.NumberOut
+D.NumberIn
+Arrival.NumberOut

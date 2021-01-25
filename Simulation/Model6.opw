@@ -1,0 +1,15 @@
+[RESOURCES]
+Resource 1
+[VARIABLES]
+Shop1.NumberIn
+FQ.NumberIn
+FQ.NumberOut
+Exit.NumberOut
+MQ.NumberOut
+Shop.NumberIn
+Shop.NumberOut
+MQ.NumberIn
+Shop1.NumberOut
+Decide.NumberOut False
+Decide.NumberOut True
+Arrival.NumberOut

@@ -1,0 +1,7 @@
+[RESOURCES]
+Resource 1
+[VARIABLES]
+Exit.NumberOut
+Wash.NumberIn
+Wash.NumberOut
+Arrival.NumberOut

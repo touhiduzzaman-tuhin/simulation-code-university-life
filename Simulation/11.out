@@ -1,0 +1,52 @@
+
+                                      ARENA Simulation Results
+                                        HP - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 8/18/2019
+Analyst: HP                                                          Model revision date: 8/18/2019
+
+Replication ended at time      : 20.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             .08130     (Insuf)    .00000     .33333         41    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000         41    
+Entity 1.WaitTime                           .00000     (Insuf)    .00000     .00000         41    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000         41    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000         41    
+Entity 1.TotalTime                          .08130     (Insuf)    .00000     .33333         41    
+Nurse.Queue.WaitingTime                     .00000     (Insuf)    .00000     .00000         10    
+Doc.Queue.WaitingTime                       .00000     (Insuf)    .00000     .00000         10    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                .16667     (Insuf)    .00000     1.0000     .00000    
+Resource 1.NumberBusy                       .16667     (Insuf)    .00000     1.0000     .00000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .16667     (Insuf)    .00000     1.0000     .00000    
+Nurse.Queue.NumberInQueue                   .00000     (Insuf)    .00000     .00000     .00000    
+Doc.Queue.NumberInQueue                     .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           41.000    
+Entity 1.NumberOut                          41.000    
+Resource 1.NumberSeized                     20.000    
+Resource 1.ScheduledUtilization             .16667    
+System.NumberOut                            41.000    
+
+
+Simulation run time: 0.00 minutes.
+Simulation run complete.

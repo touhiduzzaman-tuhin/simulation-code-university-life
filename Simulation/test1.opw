@@ -1,0 +1,16 @@
+[RESOURCES]
+Paint Shop
+Assembly Station
+[VARIABLES]
+Painting.VATime
+Assembly.WaitTime
+Painting.NumberOut
+Painting.NumberIn
+Assembly.VATime
+Painting.WaitTime
+Finished Parts.NumberOut
+Quality Control.NumberOut True
+Job Arrive.NumberOut
+Quality Control.NumberOut False
+Assembly.NumberOut
+Assembly.NumberIn

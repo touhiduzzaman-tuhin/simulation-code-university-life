@@ -1,0 +1,71 @@
+
+                                      ARENA Simulation Results
+                                        HP - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 8/11/2019
+Analyst: HP                                                          Model revision date: 8/11/2019
+
+Replication ended at time      : 900.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Inspect.WaitTimePerEntity                   5.1866     (Insuf)    .00000     40.917        151    
+Repair.VATimePerEntity                      5.2509     (Insuf)    .05072     28.533        152    
+Repair.TotalTimePerEntity                   21.040     (Insuf)    .24934     90.643        152    
+Repair.WaitTimePerEntity                    15.789     (Insuf)    .00000     82.772        152    
+Inspect.VATimePerEntity                     3.5391     (Insuf)    .00532     24.804        151    
+Inspect.TotalTimePerEntity                  8.7258     (Insuf)    .00532     51.513        151    
+Entity 1.VATime                             9.8944     (Insuf)    .43379     46.114        134    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        134    
+Entity 1.WaitTime                           23.654     (Insuf)    .00000     128.29        134    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        134    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000        134    
+Entity 1.TotalTime                          33.549     (Insuf)    1.3239     134.19        134    
+Inspect.Queue.WaitingTime                   5.1525     (Insuf)    .00000     40.917        152    
+Repair.Queue.WaitingTime                    15.740     (Insuf)    .00000     82.772        153    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                5.0384     (Insuf)    .00000     15.000     4.0000    
+Repair Person.NumberBusy                    .88720     (Insuf)    .00000     1.0000     1.0000    
+Repair Person.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Repair Person.Utilization                   .88720     (Insuf)    .00000     1.0000     1.0000    
+Inspector.NumberBusy                        .59416     (Insuf)    .00000     1.0000     1.0000    
+Inspector.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Inspector.Utilization                       .59416     (Insuf)    .00000     1.0000     1.0000    
+Inspect.Queue.NumberInQueue                 .87021     (Insuf)    .00000     8.0000     .00000    
+Repair.Queue.NumberInQueue                  2.6869     (Insuf)    .00000     10.000     2.0000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Inspect Number In                           152.00    
+Repair Accum Wait Time                      2400.0    
+Inspect Number Out                          151.00    
+Inspect Accum Wait Time                     783.18    
+Repair Accum VA Time                        798.14    
+Inspect Accum VA Time                       534.41    
+Repair Number In                            155.00    
+Repair Number Out                           152.00    
+Entity 1.NumberIn                           138.00    
+Entity 1.NumberOut                          134.00    
+Repair Person.NumberSeized                  153.00    
+Repair Person.ScheduledUtilization          .88720    
+Inspector.NumberSeized                      152.00    
+Inspector.ScheduledUtilization              .59416    
+System.NumberOut                            134.00    
+
+
+Simulation run time: 0.02 minutes.
+Simulation run complete.

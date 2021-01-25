@@ -1,0 +1,9 @@
+[RESOURCES]
+Toothpaste
+[VARIABLES]
+Exit.NumberOut
+Shop.NumberIn
+Shop.NumberOut
+Decide.NumberOut False
+Decide.NumberOut True
+Arrival.NumberOut
